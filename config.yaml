@@ -1,0 +1,28 @@
+---
+id: enterprise-wordpress-2018-02
+base_name: mroonga-wordpress
+tags:
+- rabbit
+- wordpress
+- kusanagi
+- mroonga
+- full-text-search
+presentation_date: 2018-02-09
+presentation_start_time: 2018-02-09T13:50:00+09:00
+presentation_end_time: 2018-02-09T14:50:00+09:00
+version: 2018.2.9.0
+licenses:
+- CC-BY-SA-4.0
+- CC-BY-3.0
+slideshare_id: 
+speaker_deck_id: 
+ustream_id: 
+vimeo_id: 
+youtube_id: 
+author:
+  markup_language: :rd
+  name: 須藤功平
+  email: kou@clear-code.com
+  rubygems_user: kou
+  slideshare_user: kou
+  speaker_deck_user: 
