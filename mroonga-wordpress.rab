@@ -17,6 +17,75 @@
 : theme
    .
 
-= ...
+= 全文検索
 
-  * ...
+Google・Bingが\n
+提供している\n
+機能
+
+= Google提供の機能
+
+キーワードで\n
+部分一致検索
+
+= Google提供の機能
+
+高速な検索
+
+= Google提供の機能
+
+それっぽい順で\n
+並び替え
+
+= Google提供の機能
+
+ページの中身を\n
+チラ見せ
+
+= Google提供の機能
+
+複数キーワード\n
+での\n
+絞り込み
+
+= Google提供の機能
+
+キーワードの\n
+入力補完\n
+(('note:「wo」で「WordPress」を提示'))
+
+= Google提供の機能
+
+同義語の同一視\n
+(('note:「ワードプレス」でも「WordPress」が見つかる'))
+
+= WordPressの全文検索
+
+組み込み機能\n
+(('note:すぐに使える！'))
+
+= 組み込みの全文検索機能
+
+  * 遅くなりがち
+  * それっぽい順の並び替え不可
+
+= WordPressで全文検索
+
+プラグインで\n
+拡張
+
+= 全文検索プラグイン
+
+  * Google Custom Search\n
+    (('note:wordpress.orgもこれ'))
+  * その他
+    * SaaSを利用
+    * 全文検索エンジンと連携
+  * 🆕 Mroonga
+
+= Mroonga
+
+MariaDBと\n
+相性のよい\n
+国産全文検索\n
+エンジン
