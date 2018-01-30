@@ -83,9 +83,54 @@ Google・Bingが\n
     * 全文検索エンジンと連携
   * 🆕 Mroonga
 
+= Google Custom Search
+
+  * 😀高速・便利
+  * 😅広告が入る
+
 = Mroonga
 
-MariaDBと\n
-相性のよい\n
-国産全文検索\n
-エンジン
+  * 😀高速
+  * 😀KUSANAGIですぐに使える
+    * KUSANAGIはMroonga対応！
+    * 💡MroongaはMariaDBと相性がよい
+  * 😅まだ機能が少ない
+    * これからもっと便利に！\n
+      (('note:昨年末にリリースしたばかり'))
+
+= Mroongaの速さ：データ
+
+  * 記事数：約13万件
+  * キーワード：search_term
+  * ヒット数：約1000件
+
+= Mroongaの速さ
+
+  # RT
+  delimiter = [|]
+
+  処理 | 組み込み | Mroonga
+  SQL(*1) | 0.86秒 | 0.05秒
+  HTTP(*2) | 1.91秒 | 0.43秒
+
+(('note:(*1) SQLのレスポンスが返ってくるまでの時間'))
+
+(('note:(*2) Webブラウザーにレスポンスが返ってくるまでの時間'))
+
+(('tag:center'))
+数倍高速！\n
+1秒以内結果が返ってくる！
+
+= KUSANAGIで簡単設定
+
+  # _
+  # kusanagi addon install mroonga
+
+= デモ
+
+KUSANAGIでの\n
+使い方
+
+= 全文検索の活用
+
+  * ...
