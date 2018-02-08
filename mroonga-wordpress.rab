@@ -159,7 +159,6 @@ KUSANAGIでの\n
 
 = 全文検索の活用
 
-サイト内\n
 回遊率🆙に\n
 全文検索を\n
 活用するには？\n
@@ -189,8 +188,8 @@ KUSANAGIでの\n
 
 = キーワードで検索
 
-😅キーワードが\n
-わからない…\n
+キーワードが\n
+わからない…😅\n
 ↓\n
 離脱\n
 (('note:😒もう有用なページはなさそうだなー'))
@@ -340,9 +339,8 @@ KUSANAGIでの\n
 
 = 検索は難しい
 
-検索\n
-しなくいいなら\n
-いいのに…\n
+検索しなくて\n
+いいならな…\n
 😒
 
 = 少なくとも
@@ -362,7 +360,7 @@ KUSANAGIでの\n
 
 意外とある🤔
 
-= WordPressでも…
+= WordPressなら？
 
 関連記事
 
@@ -442,6 +440,7 @@ KUSANAGIでの\n
 
 = よいこと
 
+(('tag:center'))
 (('note:フィードバック先（プラグインページのレビューコーナー）'))\n
 (('note:((<"https://ja.wordpress.org/plugins/mroonga/#reviews"|URL:https://ja.wordpress.org/plugins/mroonga/#reviews>))'))
 
@@ -450,10 +449,12 @@ KUSANAGIでの\n
   * 😀回遊率があがったよ！
     * 💡狙い通りの結果がでているな！
 
+(('tag:center'))
 (('note:なにがうまくいっているのかわかるのでうれしい！'))
 
 = 悪いこと
 
+(('tag:center'))
 (('note:フィードバック先（プラグインページのサポートフォーラム）'))\n
 (('note:((<"https://wordpress.org/support/plugin/mroonga"|URL:https://wordpress.org/support/plugin/mroonga>))'))
 
@@ -462,6 +463,7 @@ KUSANAGIでの\n
   * 😅思ったより遅い…
     * このデータのときでも速くしよう！
 
+(('tag:center'))
 (('note:よくするきっかけになるのでうれしい！'))
 
 = インストール方法
@@ -482,5 +484,6 @@ KUSANAGIでの\n
 (('tag:x-small'))
 ((<"https://www.clear-code.com/contact/?type=groonga"|URL:https://www.clear-code.com/contact/?type=groonga>))
 
+(('tag:center'))
 プライム・ストラテジーさんと\n
 KUSANAGI+MroongaサポートもOK！
