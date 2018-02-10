@@ -443,7 +443,7 @@ KUSANAGIでの\n
 (('tag:center'))
 (('note:フィードバック先（プラグインページのレビューコーナー）'))\n
 (('tag:x-small'))
-((<"https://ja.wordpress.org/plugins/mroonga/#reviews"|URL:https://ja.wordpress.org/plugins/mroonga/#reviews>))
+((<URL:https://ja.wordpress.org/plugins/mroonga/#reviews>))
 
   * 😀すごい！速くなった！
     * 💡この環境で動作確認できた！
@@ -458,7 +458,7 @@ KUSANAGIでの\n
 (('tag:center'))
 (('note:フィードバック先（プラグインページのサポートフォーラム）'))\n
 (('tag:x-small'))
-((<"https://wordpress.org/support/plugin/mroonga"|URL:https://wordpress.org/support/plugin/mroonga>))
+((<URL:https://wordpress.org/support/plugin/mroonga>))
 
   * 😅インストールが失敗する…
     * こんなケースがあるのか！直そう！
@@ -484,7 +484,7 @@ KUSANAGIでの\n
 問い合わせ先：
 
 (('tag:x-small'))
-((<"https://www.clear-code.com/contact/?type=groonga"|URL:https://www.clear-code.com/contact/?type=groonga>))
+((<URL:https://www.clear-code.com/contact/?type=groonga>))
 
 (('tag:center'))
 プライム・ストラテジーさんと\n
